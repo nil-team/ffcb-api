@@ -1,1 +1,1 @@
-web: .build/release/ffcb-api
+web: .build/release/ffcb\ api
